@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @allenjoejoseph
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning to be a Full Stack Developer
-- 💞️ I’m looking to collaborate on making websites
+- 🌱 I’m completed a course in MEA(R)N Full Stack Developement
 - 📫 How to reach me : josephallenjoe@gmail.com
 
 <!---
