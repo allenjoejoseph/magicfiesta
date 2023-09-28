@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @magicfiesta
+- 👋 Hi, I’m @allenjoejoseph
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning to be a Full Stack Developer
 - 💞️ I’m looking to collaborate on making websites
